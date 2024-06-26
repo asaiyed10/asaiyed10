@@ -1,4 +1,4 @@
-👋 Hi, I'm Ahson Saiyed
+👋 Hi, I'm Ahson
 
 I'm a Data Science PhD Candidate at the University of Virginia, specializing in designing and implementing advanced machine learning systems for healthcare and natural language processing. 
 
