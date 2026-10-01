@@ -1,7 +1,10 @@
-# Hi, I'm Ahson
+👋 Hi, I'm Ahson
 
-I'm a PhD student in Data Science at the University of Virginia, advised by [Chirag Agarwal](https://datascience.virginia.edu/people/chirag-agarwal). My research focuses on mechanistic interpretability, knowledge editing, and machine unlearning.
+I'm a Data Science PhD Candidate at the University of Virginia, specializing in designing and implementing advanced machine learning systems for healthcare and natural language processing. 
 
----
+📫 Connect with me:
+* LinkedIn: [linkedin.com/in/ahsonsaiyed](https://linkedin.com/in/ahsonsaiyed)
+* Personal Blog: [blog.ahson.io](https://blog.ahson.io)
 
-[Website](https://blog.ahson.io/) · [LinkedIn](https://www.linkedin.com/in/ahsonsaiyed)
+
+View more about my work and research at [blog.ahson.io](https://blog.ahson.io)
